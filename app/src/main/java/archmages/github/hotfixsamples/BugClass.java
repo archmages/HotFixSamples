@@ -10,6 +10,6 @@ package archmages.github.hotfixsamples;
 public class BugClass {
 
     public String bug(){
-        return "There is a bug";
+        return "Bug has been fixed";
     }
 }
