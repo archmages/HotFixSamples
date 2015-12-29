@@ -10,8 +10,8 @@
 ![image](http://ww1.sinaimg.cn/large/53488390gw1ezgrk4q1bpj20ax0j9glt.jpg)    
 
  此时会在`app/build/outputs`目录下自动生成一个叫`nuwa`的目录  
-3. 拷贝此目录到本地一个指定目录，比如：`/Users/Documents/nuwa`
-4. 切换到`bugfix`分支
+3. 拷贝此目录到本地一个指定目录，比如：`/Users/Documents/nuwa`  
+4. 切换到`bugfix`分支  
 5. 在shell中执行如下命令  
 > ./gradlew clean nuwaDebugPatch -P NuwaDir=/Users/Documents/nuwa    
   
