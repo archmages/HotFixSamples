@@ -1,6 +1,7 @@
 # HotFixSamples
 
-这个项目简单演示利用[Nuwa](https://github.com/jasonross/Nuwa)实现Android自动化热部署
+这个项目简单演示利用[Nuwa](https://github.com/jasonross/Nuwa)实现Android自动化热部署  
+详细的使用介绍以及以及原理，查看我的博客，[点此查看](http://archmages.github.io/2015/12/29/Nuwa-HotFix/)
 
 ## 使用引导
 1. clone this repo, 切换到`master`分支
