@@ -5,7 +5,9 @@
 ## 使用引导
 1. clone this repo, 切换到`master`分支
 2. 运行并安装apk
-![image](http://ww1.sinaimg.cn/large/53488390gw1ezgrk4q1bpj20ax0j9glt.jpg)  
+  
+![image](http://ww1.sinaimg.cn/large/53488390gw1ezgrk4q1bpj20ax0j9glt.jpg)    
+
  此时会在`app/build/outputs`目录下自动生成一个叫`nuwa`的目录  
 3. 拷贝此目录到本地一个指定目录，比如：`/Users/Documents/nuwa`
 4. 切换到`bugfix`分支
